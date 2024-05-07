@@ -10,3 +10,7 @@ function toggleMode() {
         img.setAttribute("src", "./assets/imgs/avatar.png");
     }
 }
+
+function aviso() {
+    alert('EM BREVE!');
+}

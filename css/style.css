@@ -57,6 +57,7 @@ body {
     width: 66px;
 
     margin: 4px auto;
+    cursor: pointer;
 }
 #switch button {
     width: 32px;
@@ -64,6 +65,7 @@ body {
     background: white var(--switch-bg-url) no-repeat center;
     border-radius: 50%;
     border: none;
+    cursor: pointer;
 
     position: absolute;
     top: 50%;
